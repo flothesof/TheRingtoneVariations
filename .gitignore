@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+img/*.png
+snd/*.wav
+*.avi
